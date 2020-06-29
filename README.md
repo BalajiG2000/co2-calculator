@@ -10,7 +10,7 @@ Check out the CERN Webfest 2020 site :
 
 https://webfest.cern/
 
-The challenge i with a team of 6 solved together : 
+The challenge that myself, with a team of 6 solved together : 
 
 https://webfest.cern/project/online-vs-person-co2-calculator
 
