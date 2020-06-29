@@ -31,3 +31,11 @@ A baseline open-source model that can receive inputs about the type of event (nu
 Identification of good sources of input datasets (i.e. accuracy, completeness, consistency, timeliness, validity, uniqueness, temporal, geographical and technology coverage) on which to develop and validate the model.
 
 A way to represent the online event footprint in terms of an in-person event or equivalent environmental metric
+
+PROCEDURE FOLLOWED :
+
+Initially we had our target split ,in order to reduce the complexity.
+
+Then we had our team split according to the revised targets.
+
+Finally ,we managed to combine a total outcome  from every piece of achievements.
