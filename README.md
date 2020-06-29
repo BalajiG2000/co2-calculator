@@ -62,3 +62,6 @@ So basically ,this project is a python implementation of the research paper -Com
 
 While video conferencing is often viewed as a greener alternative to physically travelling to meet in person, it has its own energy, carbon dioxide and time costs. Here we present the analysis of the total cost of videoconferencing, including operating costs of the network and videoconferencing equipment, lifecycle assessment of equipment costs, and the time cost of people involved in meetings. We compare these costs to the corresponding costs for in-person meetings, which include operating and lifecycle costs of vehicles and the costs of participant time. 
 
+END RESULT :
+
+While the costs of these meeting forms depend on many factors such as distance travelled, meeting duration, and the technologies used, we find that videoconferencing takes at most 7% of the energy/carbon of an in-person meeting.
