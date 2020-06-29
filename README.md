@@ -14,4 +14,10 @@ The challenge that myself, with a team of 6 solved together :
 
 https://webfest.cern/project/online-vs-person-co2-calculator
 
+Special thanks to our Mentor Mr. Ben Krikler
+
+Ben Krikler LinkedIn profile : https://www.linkedin.com/in/ben-krikler/
+
+Ben krikler Github profile : https://github.com/benkrikler
+
 
