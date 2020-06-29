@@ -2,11 +2,11 @@ Video-conferencing CO2 calculator
 
 This project was made during CERN WEBFEST 2020 .
 
-Check CERN LABORATORY in the following link :
+CERN LABORATORY :
 
 https://home.cern/
 
-Check out the CERN Webfest 2020 site : 
+CERN Webfest 2020 site : 
 
 https://webfest.cern/
 
@@ -21,6 +21,7 @@ Ben Krikler LinkedIn profile : https://www.linkedin.com/in/ben-krikler/
 Ben krikler Github profile : https://github.com/benkrikler
 
 Members:
+
 1)Balaji G
 
 2)Sampada Gaonkar
@@ -65,3 +66,27 @@ While video conferencing is often viewed as a greener alternative to physically 
 END RESULT :
 
 While the costs of these meeting forms depend on many factors such as distance travelled, meeting duration, and the technologies used, we find that videoconferencing takes at most 7% of the energy/carbon of an in-person meeting.
+
+DATA SETS WORKED :
+
+https://data.world/doe/hourly-energy-emission-factors
+
+CO2 emissions from transport (% of total fuel combustion) | Data https://data.worldbank.org/indicator/EN.CO2.TRAN.ZS
+
+CO2 emissions from electricity and heat production, total (% of total fuel combustion) https://data.worldbank.org/indicator/EN.CO2.ETOT.ZS
+
+CO2 Datasets https://www.co2.earth/co2-datasets
+
+https://www.kaggle.com/txtrouble/carbon-emissions
+
+Electric power consumption (kWh per capita) | Data https://data.worldbank.org/indicator/EG.USE.ELEC.KH.PC
+
+https://data.world/johnsnowlabs/estimates-emissions-of-co2-at-country-and-global-level
+
+CMS: CO2 Emissions from Fossil Fuels Combustion, ACES Inventory for Northeastern USA https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1501
+
+https://doi.org/10.3334/ORNLDAAC/1501
+
+Car Fuel & Emissions 2000-2013 - dataset by amercader https://data.world/amercader/car-fuel-emissions-2000-2013
+
+CO2 emissions from other sectors, excluding residential buildings and commercial and public services (% of total fuel combustion)  https://data.worldbank.org/indicator/EN.CO2.OTHX.ZS
