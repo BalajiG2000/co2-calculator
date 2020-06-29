@@ -9,3 +9,9 @@ https://home.cern/
 Check out the CERN Webfest 2020 site : 
 
 https://webfest.cern/
+
+The challenge i with a team of 6 solved together : 
+
+https://webfest.cern/project/online-vs-person-co2-calculator
+
+
