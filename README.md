@@ -55,3 +55,10 @@ Then we had our team split according to the revised targets.
 Finally ,we managed to combine a total outcome  from every piece of achievements.
 
 OUR SUBMISSION : https://webfest-app.web.cern.ch/submissions/e6a9a8c9-137a-4722-8df0-b66815970f6f
+
+ABSTRACT :
+
+So basically ,this project is a python implementation of the research paper -Comparison of the energy, carbon and time costs of videoconferencing and in-person meetings by Dennis Ong , Tim Moors, Vijay Sivaraman.
+
+While video conferencing is often viewed as a greener alternative to physically travelling to meet in person, it has its own energy, carbon dioxide and time costs. Here we present the analysis of the total cost of videoconferencing, including operating costs of the network and videoconferencing equipment, lifecycle assessment of equipment costs, and the time cost of people involved in meetings. We compare these costs to the corresponding costs for in-person meetings, which include operating and lifecycle costs of vehicles and the costs of participant time. 
+
