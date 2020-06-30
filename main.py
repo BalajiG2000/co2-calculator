@@ -1,3 +1,5 @@
+# Written on 27/6/2020 Sat
+# @author Balaji
 def total_device_energy(data):
     clientprop = ClientProperties()
     area_desktop = 0.24 #average desktop size approximately 60cmx40cm
