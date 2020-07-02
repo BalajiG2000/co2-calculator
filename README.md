@@ -26,7 +26,7 @@ Members:
 
 2)Sampada Gaonkar
 
-3)Ankita Waghmare
+3)Ankita Waghmare  : https://www.linkedin.com/in/ankita-waghmare-07aab81b1/
 
 4)Hannah Johnson
 
