@@ -30,7 +30,7 @@ Members:
 
 4)Hannah Johnson
 
-5)Saudamini Kulkarni
+5)Saudamini Kulkarni  : https://www.linkedin.com/in/saudamini-kulkarni-224b901a3/
 
 6)Soni Pokharel
 
