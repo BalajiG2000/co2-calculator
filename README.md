@@ -22,9 +22,9 @@ Ben krikler Github profile : https://github.com/benkrikler
 
 Members:
 
-1)Balaji G
+1)Balaji G  : https://www.linkedin.com/in/balaji-g-3bb1a1182/
 
-2)Sampada Gaonkar
+2)Sampada Gaonkar  : https://www.linkedin.com/in/sampada-gaonkar-287abb1b1/
 
 3)Ankita Waghmare  : https://www.linkedin.com/in/ankita-waghmare-07aab81b1/
 
