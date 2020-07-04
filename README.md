@@ -55,8 +55,9 @@ Then we had our team split according to the revised targets.
 
 Finally ,we managed to combine a total outcome  from every piece of achievements.
 
-OUR SUBMISSION : https://webfest-app.web.cern.ch/submissions/e6a9a8c9-137a-4722-8df0-b66815970f6f
+OUR SUBMISSION : https://webfest.cern/node/289
 
+ALL SUBMISSIONS : https://webfest.cern/projects
 ABSTRACT :
 
 So basically ,this project is a python implementation of the research paper -Comparison of the energy, carbon and time costs of videoconferencing and in-person meetings by Dennis Ong , Tim Moors, Vijay Sivaraman.
